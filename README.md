@@ -51,8 +51,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="height: 40px;" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" style="height: 40px;" alt="kaggle logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height: 40px;" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" style="height: 40px;" alt="nestjs logo"  />
@@ -73,8 +71,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="height: 40px;" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="height: 40px;" alt="nuxtjs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" style="height: 40px;" alt="yarn logo"  />
 </div>
 
@@ -90,17 +86,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="height: 40px;" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="height: 40px;" alt="vim logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" style="height: 40px;" alt="xcode logo"  />
-</div>
 
----
-
-###
-
-<h6 align="left">기초적인 신경망 구조와 학습 원리는 NumPy로 직접 구현하며 충분히 익혔지만, 앞으로는 다음과 같은 방향으로 더 확장해나갈 예정입니다:<br><br>CNN, RNN 등 구조적 딥러닝 모델의 동작 원리와 직접 구현<br><br>- 딥러닝 프레임워크(PyTorch, TensorFlow)를 활용한 실제 모델 개발 및 실험<br><br>- 실제 데이터셋(CIFAR-10, IMDB 등)을 활용한 모델 학습 및 성능 튜닝<br><br>- 하이퍼파라미터 최적화, 정규화 기법(BatchNorm, LayerNorm 등)<br><br>- Transformer 기반 구조와 Attention 메커니즘에 대한 수학적 이해 및 구현 시도</h6>
-
-###
 ---
 
 <h6 align="left">알고리즘 문제 해결에 꾸준히 흥미를 갖고 학습해왔습니다.<br><br>그래프, 트리, 세그먼트 트리와 같은 기본 자료구조는 물론, 네트워크 플로우, 이분 매칭, Convex Hull Trick, Slope Trick, 병렬 이분 탐색(PBS), Mo's 알고리즘, Kinetic Tournament, Link-Cut Tree 등 고급 알고리즘과 자료구조를 폭넓게 공부해왔습니다.<br><br>단순 구현을 넘어서, 각 알고리즘이 어떻게 작동하는지 수학적 원리와 시간 복잡도 분석까지 병행하며 학습했으며, 다양한 문제 해결 기법(분할 정복 최적화, 트리 DP, 오프라인 쿼리 처리 등)을 실제 문제 풀이에 적용한 경험이 있습니다.</h6>
